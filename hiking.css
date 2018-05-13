@@ -1,0 +1,17 @@
+body {
+    background-color: yellow;
+}
+html * {
+    font-size: 12px;
+    font-family: Arial, Helvetica, Verdana, sans-serif !important;
+}
+
+h1 {
+    font-size: 2em;
+    color: blue;
+}
+
+a {
+    background-color: black;
+    color: white;
+}
